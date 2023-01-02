@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/csim-yyz-departure/static/css/main.554fac34.css",
-    "main.js": "/csim-yyz-departure/static/js/main.d6f7e306.js",
+    "main.js": "/csim-yyz-departure/static/js/main.574a5214.js",
     "static/media/Radar06s.png": "/csim-yyz-departure/static/media/Radar06s.4d77e67d4755f9e01226.png",
     "static/media/FontDejaVuMonoBold.xml": "/csim-yyz-departure/static/media/FontDejaVuMonoBold.15cef52716c912102ebe.xml",
     "static/media/FontDejaVuMonoBold.png": "/csim-yyz-departure/static/media/FontDejaVuMonoBold.fae30992a9a2088db0ff.png",
     "static/media/PpsSymbol.png": "/csim-yyz-departure/static/media/PpsSymbol.d8c2cf86991b70001c3f.png",
     "index.html": "/csim-yyz-departure/index.html",
     "main.554fac34.css.map": "/csim-yyz-departure/static/css/main.554fac34.css.map",
-    "main.d6f7e306.js.map": "/csim-yyz-departure/static/js/main.d6f7e306.js.map"
+    "main.574a5214.js.map": "/csim-yyz-departure/static/js/main.574a5214.js.map"
   },
   "entrypoints": [
     "static/css/main.554fac34.css",
-    "static/js/main.d6f7e306.js"
+    "static/js/main.574a5214.js"
   ]
 }
