@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/csim-yyz-terminal/static/css/main.f048ff33.css",
-    "main.js": "/csim-yyz-terminal/static/js/main.f00fcca5.js",
-    "static/media/Radar06s.png": "/csim-yyz-terminal/static/media/Radar06s.4d77e67d4755f9e01226.png",
-    "static/media/Radar24s.png": "/csim-yyz-terminal/static/media/Radar24s.e6b46e05620a24623943.png",
-    "static/media/Radar33s.png": "/csim-yyz-terminal/static/media/Radar33s.5ef429a340ea1d56495f.png",
-    "static/media/Radar15s.png": "/csim-yyz-terminal/static/media/Radar15s.e711b46f75ca50447138.png",
+    "main.css": "/csim-yyz-terminal/static/css/main.5d2dadf3.css",
+    "main.js": "/csim-yyz-terminal/static/js/main.626630d7.js",
+    "static/media/Radar06sArr.png": "/csim-yyz-terminal/static/media/Radar06sArr.04a38d0b7dd5c783cca5.png",
+    "static/media/Radar24sArr.png": "/csim-yyz-terminal/static/media/Radar24sArr.cfda49fd950e45c5eeba.png",
+    "static/media/Radar15sArr.png": "/csim-yyz-terminal/static/media/Radar15sArr.61fc90f2118f89818171.png",
+    "static/media/Radar06sDep.png": "/csim-yyz-terminal/static/media/Radar06sDep.a71470039310c1e4c451.png",
+    "static/media/Radar33sArr.png": "/csim-yyz-terminal/static/media/Radar33sArr.7620049175f90b47e964.png",
+    "static/media/Radar24sDep.png": "/csim-yyz-terminal/static/media/Radar24sDep.543844d2a9ce9cc78d28.png",
+    "static/media/Radar33sDep.png": "/csim-yyz-terminal/static/media/Radar33sDep.58af8340a93f8030e388.png",
+    "static/media/Radar15sDep.png": "/csim-yyz-terminal/static/media/Radar15sDep.35639d2978866d5c83be.png",
     "static/media/FontDejaVuMonoBold.xml": "/csim-yyz-terminal/static/media/FontDejaVuMonoBold.15cef52716c912102ebe.xml",
     "static/media/FontDejaVuMonoBold.png": "/csim-yyz-terminal/static/media/FontDejaVuMonoBold.fae30992a9a2088db0ff.png",
     "static/media/down-arrow.png": "/csim-yyz-terminal/static/media/down-arrow.2bef07ade1aad40caddb.png",
     "static/media/up-arrow.png": "/csim-yyz-terminal/static/media/up-arrow.85e93d529d089bceede4.png",
     "static/media/PpsSymbol.png": "/csim-yyz-terminal/static/media/PpsSymbol.d8c2cf86991b70001c3f.png",
     "index.html": "/csim-yyz-terminal/index.html",
-    "main.f048ff33.css.map": "/csim-yyz-terminal/static/css/main.f048ff33.css.map",
-    "main.f00fcca5.js.map": "/csim-yyz-terminal/static/js/main.f00fcca5.js.map"
+    "main.5d2dadf3.css.map": "/csim-yyz-terminal/static/css/main.5d2dadf3.css.map",
+    "main.626630d7.js.map": "/csim-yyz-terminal/static/js/main.626630d7.js.map"
   },
   "entrypoints": [
-    "static/css/main.f048ff33.css",
-    "static/js/main.f00fcca5.js"
+    "static/css/main.5d2dadf3.css",
+    "static/js/main.626630d7.js"
   ]
 }
