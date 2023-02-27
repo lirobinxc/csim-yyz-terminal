@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/csim-yyz-terminal/static/css/main.5d2dadf3.css",
-    "main.js": "/csim-yyz-terminal/static/js/main.5e9a3437.js",
+    "main.css": "/csim-yyz-terminal/static/css/main.a781ffa6.css",
+    "main.js": "/csim-yyz-terminal/static/js/main.d01f8710.js",
     "static/media/Radar06sArr.png": "/csim-yyz-terminal/static/media/Radar06sArr.04a38d0b7dd5c783cca5.png",
     "static/media/Radar24sArr.png": "/csim-yyz-terminal/static/media/Radar24sArr.cfda49fd950e45c5eeba.png",
     "static/media/Radar15sArr.png": "/csim-yyz-terminal/static/media/Radar15sArr.61fc90f2118f89818171.png",
@@ -12,15 +12,18 @@
     "static/media/Radar15sDep.png": "/csim-yyz-terminal/static/media/Radar15sDep.35639d2978866d5c83be.png",
     "static/media/FontDejaVuMonoBold.xml": "/csim-yyz-terminal/static/media/FontDejaVuMonoBold.15cef52716c912102ebe.xml",
     "static/media/FontDejaVuMonoBold.png": "/csim-yyz-terminal/static/media/FontDejaVuMonoBold.fae30992a9a2088db0ff.png",
+    "static/media/IaIndicator_Chevron.png": "/csim-yyz-terminal/static/media/IaIndicator_Chevron.5dfa9d7d840135ff4baa.png",
     "static/media/down-arrow.png": "/csim-yyz-terminal/static/media/down-arrow.2bef07ade1aad40caddb.png",
     "static/media/up-arrow.png": "/csim-yyz-terminal/static/media/up-arrow.85e93d529d089bceede4.png",
     "static/media/PpsSymbol.png": "/csim-yyz-terminal/static/media/PpsSymbol.d8c2cf86991b70001c3f.png",
     "index.html": "/csim-yyz-terminal/index.html",
-    "main.5d2dadf3.css.map": "/csim-yyz-terminal/static/css/main.5d2dadf3.css.map",
-    "main.5e9a3437.js.map": "/csim-yyz-terminal/static/js/main.5e9a3437.js.map"
+    "static/media/IaIndicator_Dashed.png": "/csim-yyz-terminal/static/media/IaIndicator_Dashed.9ec0fd428ac32a640f23.png",
+    "static/media/IaIndicator_Line.png": "/csim-yyz-terminal/static/media/IaIndicator_Line.f764c081c5cfacb1d788.png",
+    "main.a781ffa6.css.map": "/csim-yyz-terminal/static/css/main.a781ffa6.css.map",
+    "main.d01f8710.js.map": "/csim-yyz-terminal/static/js/main.d01f8710.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d2dadf3.css",
-    "static/js/main.5e9a3437.js"
+    "static/css/main.a781ffa6.css",
+    "static/js/main.d01f8710.js"
   ]
 }
