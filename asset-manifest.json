@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/csim-yyz-terminal/static/css/main.a781ffa6.css",
-    "main.js": "/csim-yyz-terminal/static/js/main.d01f8710.js",
+    "main.js": "/csim-yyz-terminal/static/js/main.f7a7eda9.js",
     "static/media/Radar06sArr.png": "/csim-yyz-terminal/static/media/Radar06sArr.04a38d0b7dd5c783cca5.png",
     "static/media/Radar24sArr.png": "/csim-yyz-terminal/static/media/Radar24sArr.cfda49fd950e45c5eeba.png",
     "static/media/Radar15sArr.png": "/csim-yyz-terminal/static/media/Radar15sArr.61fc90f2118f89818171.png",
@@ -20,10 +20,10 @@
     "static/media/IaIndicator_Dashed.png": "/csim-yyz-terminal/static/media/IaIndicator_Dashed.9ec0fd428ac32a640f23.png",
     "static/media/IaIndicator_Line.png": "/csim-yyz-terminal/static/media/IaIndicator_Line.f764c081c5cfacb1d788.png",
     "main.a781ffa6.css.map": "/csim-yyz-terminal/static/css/main.a781ffa6.css.map",
-    "main.d01f8710.js.map": "/csim-yyz-terminal/static/js/main.d01f8710.js.map"
+    "main.f7a7eda9.js.map": "/csim-yyz-terminal/static/js/main.f7a7eda9.js.map"
   },
   "entrypoints": [
     "static/css/main.a781ffa6.css",
-    "static/js/main.d01f8710.js"
+    "static/js/main.f7a7eda9.js"
   ]
 }
